@@ -50,20 +50,20 @@ const Contact = () => {
             <div className="info">
               <div className="address">
                 <i className="bi bi-geo-alt"></i>
-                <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <h4 style={{color:"white"}}>Location:</h4>
+                <h5 style={{color:"white"}}>&nbsp;&nbsp;&nbsp;A108 Adam Street,<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; New York,<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NY 535022</h5>
               </div>
 
               <div className="email">
                 <i className="bi bi-envelope"></i>
-                <h4>Email:</h4>
-                <p>info@example.com</p>
+                <h4 style={{color:"white"}}>Email:</h4>
+                <h5 style={{color:"white"}}>&nbsp;&nbsp;&nbsp;info@digimail.com</h5>
               </div>
 
               <div className="phone">
                 <i className="bi bi-phone"></i>
-                <h4>Call:</h4>
-                <p>+1 5589 55488 555</p>
+                <h4 style={{color:"white"}}>Call:</h4>
+                <h5 style={{color:"white"}}>&nbsp;&nbsp;&nbsp;+1 5589 55488 555</h5>
               </div>
 
             </div>

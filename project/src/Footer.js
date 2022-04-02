@@ -14,7 +14,7 @@ export default function Footer(){
                 A108 Adam Street <br/>
                 NY 535022, USA<br/><br/>
                 <strong>Phone:</strong> +1 5589 55488 55<br/>
-                <strong>Email:</strong> info@example.com<br/>
+                <strong>Email:</strong> info@digimail.com<br/>
               </p>
               <div className="social-links mt-3">
                 <a href="#" className="twitter"><i className="bx bxl-twitter"></i></a>

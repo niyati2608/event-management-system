@@ -22,7 +22,7 @@ import  './admin.css';
    <br/>
      <Link to="/addevent" className="book-a-table-btn ">Add event</Link>
      <Link to="/updateevent" className="book-a-table-btn " onClick={Updateevent}>Manage Events</Link>
-     
+     <Link className="book-a-table-btn " to="/login">Sign out</Link>
      </div>
      </div>
   </>;

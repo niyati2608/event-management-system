@@ -13,7 +13,7 @@ export default function Paypal() {
                         {
                             amount: {
                                 currency_code: "USD",
-                                value: 2.6
+                                value: 1.32
                             }
                         }
                     ]
